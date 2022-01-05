@@ -1,0 +1,58 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html, main{
+    height: 100%;
+    width: 100%;
+}
+
+main 
+{
+    background-color: rgb(146, 146, 194);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    background-color: white;
+    height: 70%;
+    width: 40%;
+}
+
+.header1
+{
+    text-align: center;
+}
+
+.header2
+{
+    text-align: center;
+}
+
+header
+{
+    background-color:rgb(211, 238, 57);
+}
+
+.label
+{
+    font-size: 20px;
+    
+}
+
+form
+{
+
+}
+
+/* .content
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */

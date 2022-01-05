@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(211, 234, 238);
+}
+
+.main
+{
+    position: relative;
+    background-color: white;
+    height: 400px;
+    width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid rgb(172, 169, 165);
+    border-radius: 20px;
+}
+
+.circle
+{
+   border-radius: 50%;
+   height: 60px;
+   width: 60px;
+   background-color: blue;
+   display: absolute;
+   margin-left: 130%;
+   display: absolute;
+}
